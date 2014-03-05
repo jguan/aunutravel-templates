@@ -1,3 +1,3 @@
 AunuTravel Templates
 ===============
-This is the templates for AunuTravel.com
+This are the templates for AunuTravel.com
